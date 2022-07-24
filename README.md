@@ -1,7 +1,7 @@
 # Agora
 Database application course project
 
-In ancient Greek city-states, agora was a public gathering space where a lot of social and political life happened. Besides economically important discussions there were a lot of freely philosophizing people. Range of topics was wide and non-restricted. Agora contained many sub-areas where people found their topics of interest. 
+In ancient Greek city-states, agora was a public gathering space where a lot of social and political life happened. Besides economically important discussions there were a lot of freely flowing philosophical talk. Range of topics was wide and non-restricted. Agora contained many sub-areas where people found their topics of interest. 
 
 This applications presents a modern day agora where free conversations are enabled and encouraged.
 
